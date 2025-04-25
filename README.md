@@ -36,7 +36,7 @@
 
 ![Snapshot 7](https://github.com/sidlaryea/sidlaryea/blob/master/LibraryManagement/UserAdmin_Panel.jpg?raw=true)
 
-![Snapshot 8](https://github.com/sidlaryea/sidlaryea/blob/master/LibraryManagement/front_end_dev.jpg?raw=true)
+
 
 
 ## 🧰 Tech Stack
