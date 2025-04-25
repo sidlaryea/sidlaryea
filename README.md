@@ -19,7 +19,7 @@
 
 ### Project 1: Library Web App
 
-![Snapshot 1]([https://github.com/sidlaryea/sidlaryea/LibraryManagement/API_endpoints.jpg
+![Snapshot 1]([[https://github.com/sidlaryea/sidlaryea/LibraryManagement/API_endpoints.jpg](https://github.com/sidlaryea/sidlaryea/blob/master/LibraryManagement/API_endpoints.jpg)
 
 
 
