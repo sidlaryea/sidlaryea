@@ -26,17 +26,17 @@
 
 ![Snapshot 2](https://github.com/sidlaryea/sidlaryea/blob/master/LibraryManagement/Add_Book.jpg?raw=true)
 
-![Snapshot 3](https://github.com/sidlaryea/sidlaryea/blob/master/LibraryManagement/API_endpoints.jpg?raw=true)
+![Snapshot 3](https://github.com/sidlaryea/sidlaryea/blob/master/LibraryManagement/Backend_development.jpg?raw=true)
 
-![Snapshot 4](https://github.com/sidlaryea/sidlaryea/blob/master/LibraryManagement/API_endpoints.jpg?raw=true)
+![Snapshot 4](https://github.com/sidlaryea/sidlaryea/blob/master/LibraryManagement/Dashboard_Page.jpg?raw=true)
 
-![Snapshot 5](https://github.com/sidlaryea/sidlaryea/blob/master/LibraryManagement/API_endpoints.jpg?raw=true)
+![Snapshot 5](https://github.com/sidlaryea/sidlaryea/blob/master/LibraryManagement/Home_Page.jpg?raw=true)
 
-![Snapshot 6](https://github.com/sidlaryea/sidlaryea/blob/master/LibraryManagement/API_endpoints.jpg?raw=true)
+![Snapshot 6](https://github.com/sidlaryea/sidlaryea/blob/master/LibraryManagement/Login_Page.jpg?raw=true)
 
-![Snapshot 7](https://github.com/sidlaryea/sidlaryea/blob/master/LibraryManagement/API_endpoints.jpg?raw=true)
+![Snapshot 7](https://github.com/sidlaryea/sidlaryea/blob/master/LibraryManagement/UserAdmin_Panel.jpg?raw=true)
 
-![Snapshot 8](https://github.com/sidlaryea/sidlaryea/blob/master/LibraryManagement/front_end_development.jpg?raw=true)
+![Snapshot 8](https://github.com/sidlaryea/sidlaryea/blob/master/LibraryManagement/front_end_dev.jpg?raw=true)
 
 
 ## 🧰 Tech Stack
