@@ -24,7 +24,7 @@
 
 ![Snapshot 1](https://github.com/sidlaryea/sidlaryea/blob/master/LibraryManagement/API_endpoints.jpg?raw=true)
 
-![Snapshot 2](https://github.com/sidlaryea/sidlaryea/blob/master/LibraryManagement/Add_Book_Page.jpg?raw=true)
+![Snapshot 2](https://github.com/sidlaryea/sidlaryea/blob/master/LibraryManagement/Add_Book Page?raw=true)
 
 ![Snapshot 3](https://github.com/sidlaryea/sidlaryea/blob/master/LibraryManagement/API_endpoints.jpg?raw=true)
 
