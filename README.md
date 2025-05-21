@@ -2,6 +2,7 @@
 
 🎯 **Remote Software Developer | Business Analyst | PMP-certified Project Manager**  
 📍 Based in Accra, Ghana | Open to global remote roles
+👉 [Click here to view my portfolio](https://sidlaryea.github.io/my-portfolio/)
 
 ---
 
@@ -73,9 +74,8 @@
 - Email: [sidneylaryea@yahoo.com](mailto:sidneylaryea@yahoo.com)  
 - Phone: +(233) 209516636  
 - LinkedIn: [www.linkedin.com/in/sidney-laryea-501a1946](www.linkedin.com/in/sidney-laryea-501a1946)  
-- Portfolio (coming soon): 
 
 ---
 
-_“Technology should solve problems, not create them.”_
+_“Esse Quam Videri: To be is better than to seem to be!”_
 
